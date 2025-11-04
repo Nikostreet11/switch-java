@@ -15,6 +15,8 @@ No setup or configuration is required.
 Simply download all the necessary files and run the main script (**`switch-java.ps1`**) in PowerShell, and follow the interactive prompts to select your desired Java version.
 Everything happens directly within the tool.
 
+Additionally, you can run this tool by launching its standalone version (**`switch-java-single.ps1`**), which already includes all the required dependencies.
+
 ## ⚙️ Administrator Privileges
 
 Running the script as an administrator is **strongly recommended**.
