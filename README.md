@@ -6,6 +6,8 @@ This tool allows you to define a root directory (`JAVA_ROOT`) containing your va
 The selected version is automatically set as your `JAVA_HOME`, and your environment variables (including `Path`) are updated accordingly.
 No manual edits, reboots, or configuration hassles.
 
+<img width="704" height="438" alt="switch-java" src="https://github.com/user-attachments/assets/e085b793-dd97-49e5-b272-71e77db0dad2" />
+
 ## ▶️ Usage
 
 No setup or configuration is required.
